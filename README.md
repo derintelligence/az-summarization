@@ -1,6 +1,8 @@
 # az-summarization
 Neural Attention Model for Abstractive Summarization for Azerbaijani language
 
+*Read this in other languages: [Azərbaycan dili](README.az.md)*
+
 Download the train data along with the validation and test sets:
 
 ```
