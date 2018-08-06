@@ -1,2 +1,9 @@
 # az-summarization
-Abstractive summarization for Azerbaijan language
+Neural Attention Model for Abstractive Summarization for Azerbaijan language
+
+Download the train data along with the validation and test sets:
+
+```
+$ wget -q https://s3.us-east-2.amazonaws.com/derintelligence/dataset/summarization-data.zip
+```
+
