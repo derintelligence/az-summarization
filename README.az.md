@@ -1,5 +1,5 @@
 # az-summarization
-Azərbaycan dili üçün Abstrakt Özətləmə modeli.
+Azərbaycan dili üçün Abstrakt Özətləmə modeli.Dataset məsələnin həlli üçünü toplanmış təxminən 400,000 məqalə və başlıq cütlüyündən ibarətdir. Üç fərqli model EC2 P2 single GPU - da öyrədilmiş və nəticələri aşağıda göstərilmişdir.
 
 *Digər dillər: [English](README.md)*
 
