@@ -1,5 +1,5 @@
 # az-summarization
-Neural Attention Model for Abstractive Summarization for Azerbaijani language
+Neural Attention Model for Abstractive Summarization for Azerbaijani language. Dataset of nearly ~400,000 pairs of both article contents and titles has been created for the task. Three different models have been trained on the EC2 P2 single GPU instance and the results are listed below.
 
 *Read this in other languages: [Azərbaycan dili](README.az.md)*
 
@@ -38,3 +38,8 @@ zehni fəaliyyətlə məşğul olanlara .
 **Att(Mul)+BOW:** azərbaycanda yeni konsert təqdim olunub – olunmuş + foto  
 **BOW:** “ qarabağ ” ın yeni vəzifə verildi – foto  
 **None:** “ iphone ” təqdim etdi – foto + proqnoz ilədayandırdı  
+  
+# Sources
+
+[1. A Neural Attention Model for Abstractive Sentence Summarization - Rush et al.](https://arxiv.org/abs/1509.00685)  
+[2. A Neural Attention Model for Abstractive Sentence Summarization - Torch implementation by Facebook research](https://github.com/facebookarchive/NAMAS)
