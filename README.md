@@ -9,13 +9,14 @@ Download the train data along with the validation and test sets:
 $ wget -q https://s3.us-east-2.amazonaws.com/derintelligence/dataset/summarization-data.zip
 ```
 
-# Results
-
+# Rouge evaluation
 | Model  | R-1 | R-2 | R-L |
 | ------------- | ------------- | ------------- | ------------- |
 | BOW  | 0.35511  | 0.11384  | 0.32372  |
 | None  | 0.28035  | 0.06750  | 0.24548  |
 | Attention(Mul)+BOW  | 0.37022  | 0.11051  | 0.39528  |
+
+# Some empirical results
 
 **Original article:** bu barədə hərracların son nəticələrinə istinadən xəbər verir .
 ice london qitələrarası birjasında brent markalı neftin qiyməti \# , \# \# azalaraq
